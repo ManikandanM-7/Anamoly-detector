@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1764089473657,"sparkVersion":"3.5.1","uid":"vecAssembler_4b0f243a4409","paramMap":{"outputCol":"features","inputCols":["fwd_packets","bwd_packets","flow_iat_mean","fwd_pkt_len_mean","bwd_pkt_len_mean"]},"defaultParamMap":{"outputCol":"vecAssembler_4b0f243a4409__output","handleInvalid":"error"}}

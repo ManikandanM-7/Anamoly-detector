@@ -1,0 +1,4 @@
+[debug] [new_spark_model] Classpath dependencies List()
+[debug] [new_spark_model] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'new_spark_model' to 'C:\Users\MMani\new_spark_model\.bloop\new_spark_model.json'
+[success] Generated .bloop\new_spark_model.json
